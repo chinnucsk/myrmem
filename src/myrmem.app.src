@@ -1,0 +1,7 @@
+%% -*- mode: Erlang; fill-column: 75; comment-column: 50; -*-
+{application, myrmem,
+ [{description, "Erlang implementation of the dimple2 algorithm"},
+  {vsn, "0.0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]}]}.
